@@ -1,0 +1,3 @@
+Sentence: A pure virtual function makes it so the base class can not be instantiated, 
+Word: instantiated
+	To represent (an abstraction) by a concrete instance
